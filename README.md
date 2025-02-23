@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Pranay Shegaonkar from Nagpur, India <br>🚀 DevOps Engineer | Cloud Enthusiast | Continuous Learner<br><br>- 🔭 I’m a DevOps engineer <br>- 📚 I'm currently learning DevOps advanced practices, Kubernetes security, Observability, and GitOps<br>- 💭 Ask me about DevOps<br>- ⚡ In my free time I upskill myself | Read books | Play snooker<br>- 👨‍🎓 Passionate about sharing knowledge and learning new tech! <br>- 📧 Gmail: pranayshegaonkar200@gmail.com <br>- 🔥 *"Keep learning, keep growing!"*</p>
+<p align="left">I'm Pranay Shegaonkar from Nagpur, India <br>🚀 DevOps Engineer | Cloud Enthusiast | Continuous Learner<br><br>- 🔭 I’m a DevOps engineer <br>- 📚 I'm currently learning DevOps advanced practices, Kubernetes security, Observability, and GitOps<br>- 💭 Ask me about DevOps<br>- ⚡ In my free time | I upskill myself |  Read books | Play snooker<br>- 👨‍🎓 Passionate about sharing knowledge and learning new tech! <br>- 📧 Gmail: pranayshegaonkar200@gmail.com <br>- 🔥 *"Keep learning, keep growing!"*</p>
 
 ###
 
